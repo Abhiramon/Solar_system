@@ -1,0 +1,1 @@
+make ARGS="data/sphere.ply data/sphere.ply data/sphere.ply data/sphere.ply data/airplane.ply" run
